@@ -1,7 +1,7 @@
 - 👋 Hi, I’m M. Oly Mahmud (@OlyMahmudMugdho)
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 Currently learning Data Structure & Algorithms
-- 📫 Find me on Facebook at fb.com/Oly.Mahmud38
+- 📫 Find me on Facebook at [fb.com/Oly.Mahmud38](fb.com/Oly.Mahmud38)
 
 <!---
 OlyMahmudMugdho/OlyMahmudMugdho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
