@@ -4,4 +4,4 @@
 - 📫 Find me on Facebook at [fb.com/Oly.Mahmud38](https://www.fb.com/Oly.Mahmud38)
 
 ![OlyMahmudMugdho's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlyMahmudMugdho&show_icons=true&theme=radical&hide=contribs,issues,prs) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyMahmudMugdho&hide=hide_progress)](https://github.com/OlyMahmudMugdho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyMahmudMugdho&hide_progress)](https://github.com/OlyMahmudMugdho/github-readme-stats)
