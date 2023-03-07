@@ -3,3 +3,4 @@
 - 🌱 Currently learning Backend Web Development 
 - 📫 Find me on Facebook at [fb.com/Oly.Mahmud38](https://www.fb.com/Oly.Mahmud38)
 
+![OlyMahmudMugdho's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlyMahmudMugdho&hide=contribs,prs)
