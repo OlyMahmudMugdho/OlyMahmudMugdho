@@ -7,4 +7,4 @@
 
 ## My Skills
 
- ![](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,javascript,react,nodejs,express,mongo,sql,linux&theme=dark)
+ ![](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,javascript,react,nodejs,express,mongo,postgres,mysql,linux&theme=dark)
