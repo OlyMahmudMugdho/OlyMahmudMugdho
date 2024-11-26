@@ -9,8 +9,6 @@
 ![OlyMahmudMugdho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyMahmudMugdho&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 
-![OlyMahmudMugdho's Stats](https://github-readme-stats.vercel.app/api?username=OlyMahmudMugdho&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
-
 ## My Skills
 
  ![](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,javascript,react,nodejs,express,mongo,postgres,mysql,linux&theme=dark)
