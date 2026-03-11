@@ -6,7 +6,7 @@
 
 *Building distributed systems, cloud-native architectures, and scalable microservices*
 
-[🌐 Portfolio](https://olymahmud.vercel.app) • [💼 LinkedIn](https://linkedin.com/in/olymahmud) • [📧 Email](mailto:oly.ice.pust@gmail.com) • [📰 Newsletter](https://newsletter.com)
+[🌐 Portfolio](https://olymahmud.vercel.app) • [💼 LinkedIn](https://linkedin.com/in/olymahmud) • [📧 Email](mailto:oly.ice.pust@gmail.com) • [📰 Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7387128281332027394)
 
 </div>
 
