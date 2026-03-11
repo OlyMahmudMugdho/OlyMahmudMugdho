@@ -2,8 +2,6 @@
 
 # M. Oly Mahmud
 
-
-
 **Full-Stack Software Engineer | System Architect | DevOps Specialist**
 
 *Building distributed systems, cloud-native architectures, and scalable microservices*
@@ -61,11 +59,15 @@ Software Engineer with **2+ years** of hands-on experience building enterprise-g
 - Secure authentication and role-based access control
 - RESTful API with comprehensive database schema
 
+[🔗 View Project](https://github.com/OlyMahmudMugdho/inventory-management-system)
+
 ### 🔗 URL Shortener
 **Go • PostgreSQL • Angular**
 - URL creation, management, deletion, and redirect functionality
 - High-performance backend with optimized database queries
 - Responsive Angular frontend with real-time updates
+
+[🔗 View Project](https://github.com/OlyMahmudMugdho/url-shortener)
 
 ### 🔐 Authenticator App
 **React Native • Expo • TypeScript • Security**
@@ -73,11 +75,15 @@ Software Engineer with **2+ years** of hands-on experience building enterprise-g
 - QR code scanning capabilities
 - On-device encrypted storage for authentication codes
 
+[🔗 View Project](https://github.com/OlyMahmudMugdho/authenticator)
+
 ### 🚀 DevOps CI/CD Pipeline
 **Jenkins • GitHub Actions • Docker**
 - Automated deployment pipeline for web applications
 - Container orchestration and infrastructure automation
 - Multi-environment deployment strategy
+
+[🔗 View Project](https://github.com/OlyMahmudMugdho/react-with-spring-boot)
 
 ### 📚 Blog App
 **Spring Boot • PostgreSQL • Next.js • TypeScript**
@@ -85,17 +91,23 @@ Software Engineer with **2+ years** of hands-on experience building enterprise-g
 - Server-side rendering with Next.js for SEO optimization
 - Responsive UI with modern design patterns
 
+[🔗 View Project](https://github.com/OlyMahmudMugdho/blog-app-spring-boot)
+
 ### 🏠 Smart Home IoT System
 **Go • AWS • MQTT • ESP32-S3**
 - Full smart home setup with IoT device integration
 - Occupancy detection and environmental monitoring
 - Web dashboard for device management and automation
 
+[🔗 View Project](https://github.com/OlyMahmudMugdho/iot-smart-home)
+
 ### 📦 gotenv
 **Go • Library**
 - Minimalist Go package for loading `.env` files
 - Easy integration into existing applications
 - Environment variable management utility
+
+[🔗 View Project](https://github.com/OlyMahmudMugdho/gotenv)
 
 ---
 
