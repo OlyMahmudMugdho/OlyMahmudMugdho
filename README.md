@@ -119,7 +119,7 @@ Sharing knowledge about **system design**, **DevOps**, **cloud infrastructure**,
 
 ## 🎓 Education & Certifications
 
-**B.Sc. Engineering** - Information and Communication Engineering
+**B.Sc. Engineering** - Information and Communication Engineering, 
 Pabna University of Science and Technology (2022 - 2026)
 
 **Certifications:**
